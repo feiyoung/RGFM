@@ -1,0 +1,15 @@
+Package: GFM
+Type: Package
+Title: Generalized Factor Model
+Version: 0.1.0
+Author: Wei Liu
+Maintainer: Wei Liu <weiliu@smail.swufe.edu.cn>
+Description:  Generalized factor model for ultra-high dimensional variables with mixed types.
+    We develop a two-step iterative procedure so that each update can be 
+    carried out parallelly across all variables and samples. The fast 
+    computation version is provided for ultra-high dimensional data,
+    see examples for more details.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Date: 2020-11-14
